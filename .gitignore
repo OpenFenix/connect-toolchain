@@ -1,0 +1,28 @@
+# APK binary files
+
+/binary
+
+# Assets and source code of app
+
+/src
+
+# Your private key for signing
+
+/key
+
+# Tools for dissasembly
+
+/tools
+
+# Temporary source for merging versions
+
+/tmpsrc
+
+# Path for framework
+
+/framework
+
+# Ignore IDE
+
+/.idea
+
